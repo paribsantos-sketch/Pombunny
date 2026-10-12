@@ -1,0 +1,18 @@
+body{
+    background: var(--background);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
+.app{
+
+    width:100%;
+
+    max-width:var(--mobile-width);
+
+    margin:auto;
+
+    min-height:100vh;
+
+}

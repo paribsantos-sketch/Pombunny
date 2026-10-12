@@ -1,0 +1,51 @@
+:root{
+
+    /* ===========================
+       CORES PRINCIPAIS DO APP
+    ============================ */
+
+    --background:#F8F1E7;
+    --primary:#5A3825;
+    --primary-hover:#4A2E1F;
+
+    --text:#2F241E;
+    --text-secondary:#6B625C;
+
+    --card:#FFF9F2;
+    --border:#E8DCCB;
+
+    --shadow:rgba(0,0,0,.08);
+
+
+    /* ===========================
+       CORES AUXILIARES
+    ============================ */
+
+    --success:#7FB069;
+    --warning:#F2B134;
+    --danger:#D96C6C;
+
+
+    /* ===========================
+       TAMANHOS
+    ============================ */
+
+    --mobile-width:430px;
+
+    --radius:18px;
+
+    --spacing-small:10px;
+    --spacing-medium:20px;
+    --spacing-large:40px;
+
+}
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
